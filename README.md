@@ -1,4 +1,4 @@
-# EVALUATION-OF-TIME-DIVISION-MULTIPLEXING
+# EVALUATION-OF-FREQUENCY-DIVISION-MULTIPLEXING
 
 ### Aim:
 Study of TDM pulse amplitude modulation/ demodulation with transmitter block (clock) and channel identification information linked directly to the receivers.  
@@ -33,9 +33,16 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 
 ### Tabulation
 
-<img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/05600b28-ba54-4cd4-9ff4-f088865e85ae" />
+![WhatsApp Image 2025-11-19 at 18 30 35_cf1f755e](https://github.com/user-attachments/assets/98654439-4358-4552-b08c-02c2599af086)
+
+## Output
+
+![WhatsApp Image 2025-11-19 at 18 31 55_a972b129](https://github.com/user-attachments/assets/9260f12c-fdd5-483b-ade2-12af7a6a14e2)
+
+![WhatsApp Image 2025-11-19 at 18 32 17_f05874db](https://github.com/user-attachments/assets/8f5ec14b-918a-463c-8e07-009046ae221d)
 
 ### Result
 
+Thus , the Frequency division multiplexing is done experimentally and output is verified.
 
 
